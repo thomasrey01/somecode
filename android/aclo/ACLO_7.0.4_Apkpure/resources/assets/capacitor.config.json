@@ -1,0 +1,9 @@
+{
+	"appId": "nl.delcom.rug.scan",
+	"appName": "ACLO",
+	"bundledWebRuntime": false,
+	"webDir": "www",
+	"ios": {
+		"scheme": "ACLO ScanAccess"
+	}
+}

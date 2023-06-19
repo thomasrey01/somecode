@@ -1,0 +1,4 @@
+IADD:00000000:/helloworld_static
+IDSET:/helloworld_static:7f0119f4d7726978581106
+IADD:00000001:/dumpstack_static
+IDSET:/dumpstack_static:7f011aa818250020067478
